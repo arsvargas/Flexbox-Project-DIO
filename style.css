@@ -332,7 +332,7 @@ footer .flex-container{
     }
     div img{
         min-width: 320px;
-        margin: auto;
+        margin: 20px 0;
     }
     footer{
         display: flex;
